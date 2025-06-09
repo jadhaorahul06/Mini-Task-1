@@ -1,0 +1,3 @@
+PoW Selected: {'id': 1, 'power': 87}
+PoS Selected: {'id': 1, 'stake': 95}
+DPoS Selected: {'id': 2, 'votes': 5}
